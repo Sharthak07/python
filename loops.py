@@ -10,12 +10,12 @@ for i in range(1,11):
 print("------done-------------")
 
 
-# # continue and break
-# for i in range(1, 51):
-#     if i == 15:
-#         continue
-#     if i % 3 == 0:
-#         print(i)
+# continue and break
+for i in range(1, 51):
+    if i == 15:
+        continue
+    if i % 3 == 0:
+        print(i)
 
 
 # to find the first number in range that is divisible by both a and b
