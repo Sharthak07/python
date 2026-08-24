@@ -43,8 +43,7 @@ def avg_func(marks=(12,14,16,18,20,25,30)):
     return avg_cal
 
 average= avg_func()
-print(average)
-
+# print(average)
 
 
 
